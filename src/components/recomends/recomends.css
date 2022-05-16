@@ -1,0 +1,111 @@
+.recomends{
+    position: fixed;
+    width:500px;
+    height: 500px;
+    right: 0;
+    margin: -80px 20px 0 0;
+    display: flex;
+    align-items: inherit;
+}
+
+.perfil_ft{
+    width:64px;
+    margin: 9px 0 0 4px;
+}
+.nameuser{
+    text-decoration: none;
+    color: rgba(var(--i1d,38,38,38),1);
+    font-weight: 500;
+}
+.div_nameuser{
+    margin: 23px 0 0 14px;
+}
+.nome_{
+    margin: 1px 0 0 0;
+    color: rgba(var(--f52,142,142,142),1);
+}
+.troca_conta{
+    height: 15px;
+    margin: 33px 0 0 73.5px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 600;
+    color: rgba(var(--d69,0,149,246),1);
+}
+.body{
+    margin: 92px 0 0 -293.5px;
+    display: flex;
+    height: 20px;
+}
+.sugestoes{
+    color: rgba(var(--f52,142,142,142),1);
+    font-weight: 600;
+}
+.tudo{
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 1px 0 0 116.5px;
+    color: rgba(var(--i1d,38,38,38),1);
+}
+.sug_perfil {
+    display:flex;
+    width: 300px;
+    height: 250px;
+    margin-top: 126px;
+    margin-left: -288px;
+}
+.lista_perfil{
+    display:flex;
+    width: 300px;
+    height: 32px;
+    list-style: none;
+    margin: 0 0 16px 0;
+}
+.fotinha{
+    width: 32px;
+    height: 32px;
+    border-radius:50%;
+}
+.recomends_header{
+    height: 75px;
+}
+.div_nameuser{
+    height: 75px;
+}
+.resu{
+    width: 202.28px;
+    color: rgba(var(--i1d,38,38,38),1);
+    font-weight: 500;
+}
+.seguidopor{
+    width: 202.28px;
+    height:20px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(var(--f52,142,142,142),1);
+}
+.bye_problem{    
+    margin-left: 12px;
+}
+.seguir_btn{
+    display: flex;
+    align-items: center;
+    margin: 2px 0 0 7.5px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 600;
+    color: rgba(var(--d69,0,149,246),1);
+}
+.rodaope{
+    margin: 33px 0 0 0;
+    list-style: none;
+    color: rgba(var(--edc,199,199,199),1);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+.meta{
+    margin-top: 25px;
+}
